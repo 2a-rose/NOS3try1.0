@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
-  <id>tag:github.com,2008:/BallAerospace/COSMOS/commits/master</id>
-  <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commits/master"/>
-  <link type="application/atom+xml" rel="self" href="https://github.com/BallAerospace/COSMOS/commits/master.atom"/>
+  <id>tag:github.com,2008:/NOS3/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/NOS3/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/NOS3/commits/master.atom"/>
   <title>Recent Commits to COSMOS:master</title>
   <updated>2018-08-17T20:43:41Z</updated>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/b2ddcbf6f5b25e350eefa1123cef4bbd5c53ea43</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/b2ddcbf6f5b25e350eefa1123cef4bbd5c53ea43"/>
+    <link type="text/html" rel="alternate" href="https://github.com/NOS3/commit/b2ddcbf6f5b25e350eefa1123cef4bbd5c53ea43"/>
     <title>
         Merge pull request #857 from BallAerospace/pktview_hide_ignored
     </title>
@@ -25,7 +25,7 @@ Ensure hide ignored persists across packet changes&lt;/pre&gt;
   </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/40bc5926926da2cff21abcb9919d4125ff3772d2</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/40bc5926926da2cff21abcb9919d4125ff3772d2"/>
+    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commits/40bc5926926da2cff21abcb9919d4125ff3772d2"/>
     <title>
         Merge pull request #860 from BallAerospace/script_wait_color
     </title>
@@ -43,7 +43,7 @@ Color wait lines a darker green&lt;/pre&gt;
   </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/e3a7518ba3713a1046554760f4a049867a9f5014</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/e3a7518ba3713a1046554760f4a049867a9f5014"/>
+    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commits/e3a7518ba3713a1046554760f4a049867a9f5014"/>
     <title>
         Merge pull request #846 from BallAerospace/get_tlm_details_in_disconnect
     </title>
@@ -61,7 +61,7 @@ closes #845. Fix disconnect mode. Also fix instrumentation bug&lt;/pre&gt;
   </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/dd5601c6607885be47178d43634469ec26b017f2</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/dd5601c6607885be47178d43634469ec26b017f2"/>
+    <link type="text/html" rel="alternate" href="https://github.com/NOS3/commits/dd5601c6607885be47178d43634469ec26b017f2"/>
     <title>
         Fix scripting spec
     </title>
@@ -77,7 +77,7 @@ closes #845. Fix disconnect mode. Also fix instrumentation bug&lt;/pre&gt;
   </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/9e8e74184cef061392d1862f2d043912276c3907</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/9e8e74184cef061392d1862f2d043912276c3907"/>
+    <link type="text/html" rel="alternate" href="https://github.com/NOS3/commits/9e8e74184cef061392d1862f2d043912276c3907"/>
     <title>
         Color wait lines a darker green
     </title>
@@ -93,7 +93,7 @@ closes #845. Fix disconnect mode. Also fix instrumentation bug&lt;/pre&gt;
   </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/f8e8438a3e8ec7cd7f6bf100ba43dd2f7922288b</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/f8e8438a3e8ec7cd7f6bf100ba43dd2f7922288b"/>
+    <link type="text/html" rel="alternate" href="https://github.com/NOS3/commits/f8e8438a3e8ec7cd7f6bf100ba43dd2f7922288b"/>
     <title>
         Ensure hide ignored persists across packet changes
     </title>
@@ -109,7 +109,7 @@ closes #845. Fix disconnect mode. Also fix instrumentation bug&lt;/pre&gt;
   </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/872ed7b5bf5716aa6e419691ff86105fd1b0fcf9</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/872ed7b5bf5716aa6e419691ff86105fd1b0fcf9"/>
+    <link type="text/html" rel="alternate" href="https://github.com/NOS3/commits/872ed7b5bf5716aa6e419691ff86105fd1b0fcf9"/>
     <title>
         Merge branch &#39;master&#39; into get_tlm_details_in_disconnect
     </title>
@@ -125,7 +125,7 @@ closes #845. Fix disconnect mode. Also fix instrumentation bug&lt;/pre&gt;
   </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/2a744fb6bb54551ba0abefa8d3294f210a56e62b</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/2a744fb6bb54551ba0abefa8d3294f210a56e62b"/>
+    <link type="text/html" rel="alternate" href="https://github.com/NOS3/commits/2a744fb6bb54551ba0abefa8d3294f210a56e62b"/>
     <title>
         Merge pull request #852 from BallAerospace/step_mode_button
     </title>
@@ -143,7 +143,7 @@ toggle_debug when using step_mode and run_mode&lt;/pre&gt;
   </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/6cb2a76514dad0554a464b23096afcd63565c9fb</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/6cb2a76514dad0554a464b23096afcd63565c9fb"/>
+    <link type="text/html" rel="alternate" href="https://github.com/NOS3/commits/6cb2a76514dad0554a464b23096afcd63565c9fb"/>
     <title>
         Fix scripting spec
     </title>
@@ -159,7 +159,7 @@ toggle_debug when using step_mode and run_mode&lt;/pre&gt;
   </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/8e90c501030f88ccb6885f45c16633f2998d2184</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/8e90c501030f88ccb6885f45c16633f2998d2184"/>
+    <link type="text/html" rel="alternate" href="https://github.com/NOS3/commits/8e90c501030f88ccb6885f45c16633f2998d2184"/>
     <title>
         Fix script_spec
     </title>
@@ -175,7 +175,7 @@ toggle_debug when using step_mode and run_mode&lt;/pre&gt;
   </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/4ebe371ea30cd43f8785f6e4f2aa1f16f8ee328b</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/4ebe371ea30cd43f8785f6e4f2aa1f16f8ee328b"/>
+    <link type="text/html" rel="alternate" href="https://github.com/NOS3/commits/4ebe371ea30cd43f8785f6e4f2aa1f16f8ee328b"/>
     <title>
         Don&#39;t toggle debug with run_mode
     </title>
@@ -191,7 +191,7 @@ toggle_debug when using step_mode and run_mode&lt;/pre&gt;
   </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/3ba0ef0bc430f102baad6b8e2e9a3640fd4e1cc6</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/3ba0ef0bc430f102baad6b8e2e9a3640fd4e1cc6"/>
+    <link type="text/html" rel="alternate" href="https://github.com/NOS3/commits/3ba0ef0bc430f102baad6b8e2e9a3640fd4e1cc6"/>
     <title>
         Merge pull request #850 from BallAerospace/remove_tr
     </title>
@@ -209,7 +209,7 @@ Remove tr&lt;/pre&gt;
   </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/b8878d7a0dddd927f7a24e4eb6b0d972c109b2b3</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/b8878d7a0dddd927f7a24e4eb6b0d972c109b2b3"/>
+    <link type="text/html" rel="alternate" href="https://github.com/NOS3/commits/b8878d7a0dddd927f7a24e4eb6b0d972c109b2b3"/>
     <title>
         remove tr from CmdTlmServer
     </title>
@@ -225,7 +225,7 @@ Remove tr&lt;/pre&gt;
   </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/af9f812b4f905db31bd298593fbaa12847a1a21e</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/af9f812b4f905db31bd298593fbaa12847a1a21e"/>
+    <link type="text/html" rel="alternate" href="https://github.com/NOS3/commits/af9f812b4f905db31bd298593fbaa12847a1a21e"/>
     <title>
         toggle_debug when using step_mode and run_mode
     </title>
@@ -241,7 +241,7 @@ Remove tr&lt;/pre&gt;
   </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/5c6097185f1b8ce7f796db80e6c76f730632df00</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/5c6097185f1b8ce7f796db80e6c76f730632df00"/>
+    <link type="text/html" rel="alternate" href="https://github.com/NOS3/commits/5c6097185f1b8ce7f796db80e6c76f730632df00"/>
     <title>
         Fix tr() bug
     </title>
@@ -257,7 +257,7 @@ Remove tr&lt;/pre&gt;
   </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/f19d894a646083d447efbeb9e5204a19bbd170f5</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/f19d894a646083d447efbeb9e5204a19bbd170f5"/>
+    <link type="text/html" rel="alternate" href="https://github.com/NOS3/commits/f19d894a646083d447efbeb9e5204a19bbd170f5"/>
     <title>
         Fix AHK scripts
     </title>
@@ -273,7 +273,7 @@ Remove tr&lt;/pre&gt;
   </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/708eb3c31e1f5f6aa96518cabcbfe089318dee01</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/708eb3c31e1f5f6aa96518cabcbfe089318dee01"/>
+    <link type="text/html" rel="alternate" href="https://github.com/NOS3/commits/708eb3c31e1f5f6aa96518cabcbfe089318dee01"/>
     <title>
         Remove tr()
     </title>
@@ -289,7 +289,7 @@ Remove tr&lt;/pre&gt;
   </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/b3dce304274786128119247875f8d8b796f7fc8c</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/b3dce304274786128119247875f8d8b796f7fc8c"/>
+    <link type="text/html" rel="alternate" href="https://github.com/NOS3/commits/b3dce304274786128119247875f8d8b796f7fc8c"/>
     <title>
         closes #845. Fix disconnect mode. Also fix instrumenation bug
     </title>
@@ -305,7 +305,7 @@ Remove tr&lt;/pre&gt;
   </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/f3d07232b8ed0731c5c5d994f0faa51a418b16e4</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/f3d07232b8ed0731c5c5d994f0faa51a418b16e4"/>
+    <link type="text/html" rel="alternate" href="https://github.com/NOS3/commits/f3d07232b8ed0731c5c5d994f0faa51a418b16e4"/>
     <title>
         support gem search in Cosmos.path
     </title>
@@ -321,7 +321,7 @@ Remove tr&lt;/pre&gt;
   </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/5aaaa9ac1edf1ccbb733e5212741725c93481228</id>
-    <link type="text/html" rel="alternate" href="https://github.com/BallAerospace/COSMOS/commit/5aaaa9ac1edf1ccbb733e5212741725c93481228"/>
+    <link type="text/html" rel="alternate" href="https://github.com/NOS3/commits/5aaaa9ac1edf1ccbb733e5212741725c93481228"/>
     <title>
         Merge pull request #838 from BallAerospace/revert_units_with_states
     </title>
